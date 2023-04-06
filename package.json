@@ -9,5 +9,9 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "engine": 18
+    "engine": 18,
+    "dependencies": {
+        "fastify": "^4.15.0",
+        "node-fetch": "^3.3.1"
+    }
 }
